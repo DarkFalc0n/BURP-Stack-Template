@@ -7,5 +7,6 @@ The BURP stack is made for web games that leverage the build speed of Bun and ea
 Run `bun install` to install the dependencies.
 
 Use the `bun dev` command to run a development server.
+
 Use the `bun run build` command to build the web app.
 
