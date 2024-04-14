@@ -9,7 +9,7 @@
 	<a href="https://github.com/DarkFalc0n/BURP-Stack-Template/issues">
 		<img alt="Issues" src="https://custom-icon-badges.herokuapp.com/github/issues/DarkFalc0n/BURP-Stack-Template?style=for-the-badge&logo=issue-opened&color=9ccfd8&logoColor=eb6f92&labelColor=191724"></a>
    <br><br>
-<img src="https://skillicons.dev/icons?i=bun,react,vite,typescript,tailwind" /><img height=40 src="https://cdn.phaser.io/images/logo/phaser-logo.png" />
+<img src="https://skillicons.dev/icons?i=bun,react,vite,typescript,tailwind" /> <img height=40 src="https://cdn.phaser.io/images/logo/phaser-logo.png" />
 </p>
 <br><br>
 The BURP stack is made for web games that leverage the speed of Bun and ease of Phaser for web-game-dev, and bring them into a React + Vite app. It supports Typescript and Tailwindcss as well
