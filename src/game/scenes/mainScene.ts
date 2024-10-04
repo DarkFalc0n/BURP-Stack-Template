@@ -5,7 +5,7 @@ export class MainScene extends Phaser.Scene {
     super('MainScene');
   }
   create() {
-    this.add.text(100, 100, 'Hello Phaser!', {
+    this.add.text(50, 50, 'Hello Phaser!', {
       color: '#000',
       fontSize: '32px',
     });

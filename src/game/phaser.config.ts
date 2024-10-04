@@ -5,6 +5,6 @@ export const config = {
   width: 1152,
   height: 648,
   parent: 'game-container',
-  backgroundColor: '#fff',
+  backgroundColor: '#e6e6e6',
   scene: [MainScene],
 };

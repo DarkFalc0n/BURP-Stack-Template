@@ -1,5 +1,4 @@
 import { PhaserGame } from './game/phaser.game';
-import './App.css';
 import { useRef } from 'react';
 
 function App() {
@@ -9,12 +8,15 @@ function App() {
     console.log('Loading Current Scene:', scene);
   };
   return (
-    <>
-      <PhaserGame
-        ref={phaserRef}
-        currentScene={currentPhaserScene}
-      />
-    </>
+    <div className="text-5xl font-sans font-light text-gray-200 flex flex-col gap-12">
+      Welcome to BURP
+      <div className="mx-auto">
+        <PhaserGame
+          ref={phaserRef}
+          currentScene={currentPhaserScene}
+        />
+      </div>
+    </div>
   );
 }
 
